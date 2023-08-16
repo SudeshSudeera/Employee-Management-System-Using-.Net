@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalTracking", "PersonalTracking.csproj", "{438AC0EB-8650-4E60-9B32-932C16C38EC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "..\BLL\BLL.csproj", "{2F7E44C5-0DB6-46DD-BAD3-059CA89E5B6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\DAL\DAL.csproj", "{AACA7470-2B8C-4578-AE46-762962E70B07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{438AC0EB-8650-4E60-9B32-932C16C38EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438AC0EB-8650-4E60-9B32-932C16C38EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438AC0EB-8650-4E60-9B32-932C16C38EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438AC0EB-8650-4E60-9B32-932C16C38EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F7E44C5-0DB6-46DD-BAD3-059CA89E5B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F7E44C5-0DB6-46DD-BAD3-059CA89E5B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F7E44C5-0DB6-46DD-BAD3-059CA89E5B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F7E44C5-0DB6-46DD-BAD3-059CA89E5B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AACA7470-2B8C-4578-AE46-762962E70B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AACA7470-2B8C-4578-AE46-762962E70B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AACA7470-2B8C-4578-AE46-762962E70B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AACA7470-2B8C-4578-AE46-762962E70B07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D2DDB5B-C66A-4152-92A6-670ECD29F3CF}
+	EndGlobalSection
+EndGlobal
